@@ -1,3 +1,4 @@
 Name : Arunachalam
 Age : 29
 Location : Sivakasi
+College : AAA College
